@@ -1,0 +1,14 @@
+a=int(input("Enter value 1 "))
+b=int(input("Enter value 2 "))
+if a<b:
+    c=int(input("Enter value 3 "))
+    while a <= b:
+        print(a, b)
+
+        if a > b:
+            print(a, b)
+
+
+
+
+
